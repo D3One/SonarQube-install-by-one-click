@@ -1,0 +1,1 @@
+# SonarQube-install-by-one-click
